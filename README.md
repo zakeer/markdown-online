@@ -21,6 +21,21 @@ Preview
 [Visit Google](https://www.google.com)
 
 
+## Images
+```md
+![Alternate Text](image-url)
+```
+
+Example
+```md
+![Google Logo](https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png)
+```
+
+Preview
+
+![Google Logo](https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png)
+
+
 ### HTML Elements
 ```html
 - <>    open brackets 
