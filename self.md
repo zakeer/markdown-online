@@ -1,5 +1,5 @@
 ## Syed Zakeer
 
-- Skills
-- Portfolio
-- Contact
+- [Skills](./skills.md)
+- [Portfolio](https://zakeer.me/)
+- [Contact Information](./contact/details.md)
